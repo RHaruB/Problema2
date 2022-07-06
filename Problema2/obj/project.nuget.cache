@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "dwDi3UOWy4JyJl81N3nojP5fAWxTPdPP/pcjrQOGEJaLy909ECZ+l/E29bT9FtT7zMIUmvwV+U7Fs510A15Bjw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Haru\\source\\repos\\Problema2\\Problema2\\Problema2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Haru\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.14\\microsoft.netcore.app.host.win-x64.5.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}
